@@ -51,7 +51,6 @@ public class Intersection {
             for(int val: Union) {
                 System.out.print(val + " ");;
             }
-            
 
 
 
